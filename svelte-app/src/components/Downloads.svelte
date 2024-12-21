@@ -1,5 +1,5 @@
 <script>
-  let googlePlayRating = null;
+  let googlePlayRating = "?";
   let appStoreRating = null;
   let amazonStoreRating = 5;
 </script>
@@ -8,7 +8,7 @@
   <div class="store-links">
     <a
       class="store-link"
-      href="https://play.google.com/store/apps/details?id=com.example.savingsplanner"
+      href="https://play.google.com/store/apps/details?id=com.fsa.planification_epargne"
       target="_blank"
     >
       <img

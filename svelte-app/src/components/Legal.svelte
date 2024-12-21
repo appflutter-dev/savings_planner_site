@@ -1,5 +1,5 @@
 <script>
-  let contactEmail = "savingsplanner.contact@gmail.com";
+  let contactEmail = "appflutter.development@gmail.com";
 </script>
 
 <div class="legal-disclaimer">
